@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/sarahamme/liri/issues"
   },
-  "homepage": "https://github.com/sarahamme/liri#readme"
+  "homepage": "https://github.com/sarahamme/liri#readme",
+  "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
+    "require": "^2.4.20",
+    "spotify": "^0.3.0",
+    "twitter": "^1.7.1"
+  },
+  "devDependencies": {}
 }
